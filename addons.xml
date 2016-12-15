@@ -28,14 +28,14 @@
 </addon>
 
 <addon id="repo.familia" name="repositorio familia" version="0.0.2" provider-name="Robert Kahn">
-	<extension point="xbmc.addon.repository" name="blackiptvsharing repo">
-		<info compressed="false">http://raw.githubusercontent.com/maniackodi82/repo.blacksharing/master/addons.xml</info>
-		<checksum>http://raw.githubusercontent.com/maniackodi82/repo.blacksharing/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.githubusercontent.com/maniackodi82/repo.blacksharing/master/repo/</datadir>
+	<extension point="xbmc.addon.repository" name="repositorio.familiaiptv">
+		<info compressed="false">http://raw.githubusercontent.com/maniackodi2016/repositorio.familiaiptv/master/addons.xml</info>
+		<checksum>http://raw.githubusercontent.com/maniackodi2016/repositorio.familiaiptv/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.githubusercontent.com/maniackodi2016/repositorio.familiaiptv/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>repositorio familia</summary>
-		<description>a familia junta-se aqui</description>
+		<summary>Repositorio da Familia</summary>
+		<description>A Familia junta-se aqui</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
